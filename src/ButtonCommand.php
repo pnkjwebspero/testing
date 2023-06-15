@@ -1,6 +1,6 @@
 <?php
 
-namespace Pnkjwebspero\Changepage;
+namespace Web\Testing;
 
 use Illuminate\Console\Command;
 use InvalidArgumentException;
@@ -12,7 +12,7 @@ class ButtonCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'Changepage:js';
+    protected $signature = 'Testing:js';
 
     /**
      * The console command description.

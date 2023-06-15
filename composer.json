@@ -1,5 +1,5 @@
 {
-    "name": "pnkjwebspero/changepage",
+    "name": "web/testing",
     "description": "Change Page - Change home page",
     "type": "package",
     "license": "MIT",
@@ -12,13 +12,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "Pnkjwebspero\\Changepage\\": "src/"
+            "Web\\Testing\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Pnkjwebspero\\Changepage\\HomePageServiceProvider"
+                "Web\\Testing\\HomePageServiceProvider"
             ]
         }
     },

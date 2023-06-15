@@ -1,6 +1,6 @@
 <?php
 
-namespace Pnkjwebspero\Changepage;
+namespace Web\Testing;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;

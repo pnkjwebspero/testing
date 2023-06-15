@@ -9,12 +9,12 @@ class ComposerStaticInitf406e9a9b21a39df107e345057a260af
     public static $prefixLengthsPsr4 = array (
         'W' => 
         array (
-            'Pnkjwebspero\\Changepage\\' => 20,
+            'Web\\Testing\\' => 20,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Pnkjwebspero\\Changepage\\' => 
+        'Web\\Testing\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

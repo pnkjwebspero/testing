@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Pnkjwebspero\\Changepage\\' => array($baseDir . '/src'),
+    'Web\\Testing\\' => array($baseDir . '/src'),
 );
