@@ -1,6 +1,6 @@
 <?php
 
-namespace Web\Testing;
+namespace Tprwt\Testing;
 
 use Illuminate\Console\Command;
 use InvalidArgumentException;
