@@ -1,0 +1,29 @@
+{
+    "name": "pnkjwebspero/changepage",
+    "description": "Change Page - Change home page",
+    "type": "package",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "karan",
+            "email": "karan@webspero.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pnkjwebspero\\Changepage\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Pnkjwebspero\\Changepage\\HomePageServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    }
+}
