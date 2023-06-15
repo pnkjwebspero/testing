@@ -1,5 +1,5 @@
 {
-    "name": "tprwt/testing",
+    "name": "tprwt/pnkjtesting",
     "description": "Change Page - Change home page",
     "type": "package",
     "license": "MIT",
@@ -12,13 +12,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "Tprwt\\Testing\\": "src/"
+            "Tprwt\\Pnkjtesting\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Tprwt\\Testing\\HomePageServiceProvider"
+                "Tprwt\\Pnkjtesting\\HomePageServiceProvider"
             ]
         }
     },

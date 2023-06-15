@@ -1,6 +1,6 @@
 <?php
 
-namespace Tprwt\Testing;
+namespace Tprwt\Pnkjtesting;
 
 use Illuminate\Console\Command;
 use InvalidArgumentException;
@@ -12,7 +12,7 @@ class ButtonCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'Testing:js';
+    protected $signature = 'Pnkjtesting:js';
 
     /**
      * The console command description.

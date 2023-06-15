@@ -1,6 +1,6 @@
 <?php
 
-namespace Web\Testing;
+namespace Web\Pnkjtesting;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;
